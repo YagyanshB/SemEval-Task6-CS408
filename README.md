@@ -23,7 +23,7 @@ In **OffensEval** we break down offensive content into three sub-tasks taking th
 3. **Sub-task C** - Offense target identification.
 
 ### Data: 
-The data is retrieved from SemEval Task 6 Competition. The testing and traininga data are available in the "Datasets" tab. 
+The data is retrieved from SemEval Task 6 Competition. The testing and traininga data are available in the "OLID_2019" tab. 
 
 
 ### Description of the Content of this Repo: 
