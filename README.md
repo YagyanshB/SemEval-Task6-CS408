@@ -25,6 +25,14 @@ In **OffensEval** we break down offensive content into three sub-tasks taking th
 ### Data: 
 The data is retrieved from SemEval Task 6 Competition. The testing and traininga data are available in the "OLID_2019" tab. 
 
+### Data Splitting & Exploratory Analysis:
+Under this file we showcase how the OLID 2019 Dataset has been distributed and perform basic exploratory analysis.
+
+### Pre-Processing Data:
+Under this file we showcase how the OLID 2019 Dataset has been pre-processed and how users can replicate the methods to carry the techniques implemented on different datasets.
+
+### Additional Baseline SVM:
+Under this file we showcase the implementation of an additional Baseline technique we have implemented. The baseline performed is an SVM (Support Vector Machine) model.
 
 ### Description of the Content of this Repo: 
 This repository contains the final submission of the project.
