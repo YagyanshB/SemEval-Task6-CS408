@@ -38,6 +38,9 @@ Under this file we showcase the implementation of an additional Baseline techniq
 Under this file we showcase the addition and uploading of Glove Vectors that has been downloaded from Stanford University. The Glove Vectors that we use for our project are 100d and 200d. Users are recommended to try other Glove Vector dimensions as well to determin which Glove Vector is most suitable.
 
 
+### Required Modules and Libraries:
+Under this file we highlight the importance of downloading and importing the said libraries in order to execute the code correctly
+
 ### Logistic Regression Baseline 1:
 Under this file we showcase our implementation of Logistic Regression as a baseline technique for the three different sub-tasks. Additionally for each subtask a Confusion Matrix, Classification Report and Results containing Macro F1-Score & Accuraccy has been provided.
 
