@@ -34,6 +34,10 @@ Under this file we showcase how the OLID 2019 Dataset has been pre-processed and
 ### Additional Baseline SVM:
 Under this file we showcase the implementation of an additional Baseline technique we have implemented. The baseline performed is an SVM (Support Vector Machine) model.
 
+### Random Forest Additional Baseline:
+Under this file we showcase the implementation of an additional Baseline technique we have implemented. The baseline performed is a Random Forest model.
+
+
 ### Glove Vector Installation Stanford:
 Under this file we showcase the addition and uploading of Glove Vectors that has been downloaded from Stanford University. The Glove Vectors that we use for our project are 100d and 200d. Users are recommended to try other Glove Vector dimensions as well to determin which Glove Vector is most suitable.
 
