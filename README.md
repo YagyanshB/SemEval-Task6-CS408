@@ -51,6 +51,9 @@ Under this file we highlight the importance of downloading and importing the sai
 ### Logistic Regression Baseline 1:
 Under this file we showcase our implementation of Logistic Regression as a baseline technique for the three different sub-tasks. Additionally for each subtask a Confusion Matrix, Classification Report and Results containing Macro F1-Score & Accuraccy has been provided.
 
+### Convolutional Neural Network Baseline 2:
+Under this file we showcase our implementation of Convolutional Neural Networkk as a baseline technique for the three different sub-tasks. 
+
 ### Description of the Content of this Repo: 
 This repository contains the final submission of the project.
 
