@@ -31,6 +31,9 @@ Under this file we showcase how the OLID 2019 Dataset has been distributed and p
 ### Pre-Processing Data:
 Under this file we showcase how the OLID 2019 Dataset has been pre-processed and how users can replicate the methods to carry the techniques implemented on different datasets.
 
+### Unit Testing Data Pipeline:
+Under this file we showcase how the functions implemented on our data pipeline are implemented correctly for our model to run efficiently.
+
 ### Additional Baseline SVM:
 Under this file we showcase the implementation of an additional Baseline technique we have implemented. The baseline performed is an SVM (Support Vector Machine) model.
 
